@@ -21,6 +21,8 @@ items:
  - mrdoob/three.js
  - phoboslab/Impact
  - Cloud9c/taro
+ - danidre14/FlevaR
+ - replit/kaboom
 display_name: JavaScript Game Engines
 created_by: leereilly
 ---
